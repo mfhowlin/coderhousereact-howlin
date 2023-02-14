@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&display=swap');
+
+.list {
+    text-align: center;
+    color: #67230e;
+    font-family: 'IM Fell DW Pica', serif;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+} 
+
+.NavBar {
+    color: #67230e;
+    font-family: 'IM Fell DW Pica', serif;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+}
